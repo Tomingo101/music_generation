@@ -1,1 +1,1 @@
-# music_generation
+# Music generation
